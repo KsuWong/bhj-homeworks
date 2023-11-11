@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const timer = function () {
     const value = document.getElementById("timer");
     value.textContent -= 1;
@@ -8,6 +7,3 @@ const timer = function () {
     }
 }
 const intervalID = setInterval(timer, 1000);
-=======
-
->>>>>>> 39435255479506f97ef1af493f951066da39636a
